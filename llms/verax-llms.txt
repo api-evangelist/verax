@@ -1,0 +1,33 @@
+# verax
+
+> Knowledge base documentation for verax.
+
+## v1
+
+- [Welcome to Verax](https://docs.verax.ai/docs/welcome-to-verax.md)
+- [First Login](https://docs.verax.ai/docs/first-login.md)
+- [First Time Setup Wizard](https://docs.verax.ai/docs/first-time-setup-wizard.md)
+- [Add Users](https://docs.verax.ai/docs/add-users.md)
+- [Prerequesites](https://docs.verax.ai/docs/prerequesites.md)
+- [Network Architecture and Requirements](https://docs.verax.ai/docs/network-requirements.md)
+- [Endpoint Configuration (manual)](https://docs.verax.ai/docs/configure-an-endpoint-to-work-with-verax-protect.md)
+- [Installing the Verax Endpoint Agent](https://docs.verax.ai/docs/installing-the-verax-endpoint-agent.md)
+- [Agent Management](https://docs.verax.ai/docs/agent-management.md)
+- [Agent Troubleshooting](https://docs.verax.ai/docs/agent-troubleshooting.md)
+- [License](https://docs.verax.ai/docs/license.md)
+- [User Management](https://docs.verax.ai/docs/user-management.md)
+- [How to Use Shadow AI](https://docs.verax.ai/docs/shadow-ai-how.md)
+- [How to Use Verax Protect](https://docs.verax.ai/docs/how-to-use-verax-protect.md)
+- [Data Security Settings](https://docs.verax.ai/docs/data-security-settings.md)
+- [Rules](https://docs.verax.ai/docs/rules.md)
+- [ChatGPT Advanced Controls](https://docs.verax.ai/docs/advanced-controls.md)
+- [Claude Advanced Controls](https://docs.verax.ai/docs/chatgpt-feature-controls.md)
+- [Settings](https://docs.verax.ai/docs/settings.md)
+- [Configuring Okta for Verax](https://docs.verax.ai/docs/okta.md)
+- [Configuring Entra ID for Verax](https://docs.verax.ai/docs/entra-id.md)
+- [Configuring Google Workspace for Verax](https://docs.verax.ai/docs/google-workspace-idp.md)
+- [Dashboard](https://docs.verax.ai/docs/dashboard.md)
+- [Interactions](https://docs.verax.ai/docs/interactions.md)
+- [Help Center](https://docs.verax.ai/docs/help-center.md)
+- [How do I install the Verax CA certificate?](https://docs.verax.ai/docs/installing-verax-ca-certificate.md)
+- [How do I edit the hosts file for Verax Protect?](https://docs.verax.ai/docs/editing-the-hosts-file-for-verax-protect.md)

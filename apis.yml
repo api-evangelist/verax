@@ -1,7 +1,28 @@
 aid: verax
 name: Verax
-description: Verax is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Verax AI is an enterprise AI security platform that gives organizations
+  real-time visibility and control over how employees and agents use generative
+  AI. Its flagship product, Verax Protect, discovers shadow AI usage across every
+  LLM tool, enforces identity- and role-aware access policies, and applies
+  content-aware data-loss prevention to stop sensitive data from leaking into
+  ChatGPT, Claude, Gemini, Copilot and other AI services. Verax Control Center
+  adds monitoring and governance for LLM-based products running in production.
+  Verax deploys via an endpoint agent and integrates with Okta, Microsoft Entra
+  ID and Google Workspace for identity. Founded in 2023 (Dallas, Tel Aviv,
+  London) and backed by TQ Ventures, Seedcamp and others.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67026e3b353ccf72c883418f/69aa8559eac925f4643caf24_Open%20Graph.jpg
 url: https://raw.githubusercontent.com/api-evangelist/verax/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- AI Security
+- AI Governance
+- Generative AI
+- Data Loss Prevention
+- Shadow AI
+- LLM
+- Enterprise Security
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://verax.ai
+  url: https://www.verax.ai
+- type: Documentation
+  url: https://docs.verax.ai/docs
+- type: GettingStarted
+  url: https://docs.verax.ai/docs/first-time-setup-wizard.md
+- type: Support
+  url: https://docs.verax.ai/docs/help-center.md
+- type: Blog
+  url: https://www.verax.ai/blog
+- type: PrivacyPolicy
+  url: https://www.verax.ai/legals/privacy-policy
+- type: TermsOfService
+  url: https://www.verax.ai/legals/terms-conditions
+- type: LLMsTxt
+  url: llms/verax-llms.txt
+- type: DomainSecurity
+  url: security/verax-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
