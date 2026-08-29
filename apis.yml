@@ -11,6 +11,17 @@ description: >-
   Verax deploys via an endpoint agent and integrates with Okta, Microsoft Entra
   ID and Google Workspace for identity. Founded in 2023 (Dallas, Tel Aviv,
   London) and backed by TQ Ventures, Seedcamp and others.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
